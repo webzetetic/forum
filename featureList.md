@@ -1,6 +1,6 @@
 ## Requested Features
 
---*Option to ignore a specific forum (ie. Sexuality). (Ensign Steve)
+* Option to ignore a specific forum (ie. Sexuality). (Ensign Steve)
 *Keyword search for Random Quote Generator. (Crumb)
 *Ignore thread without having to view it. (Ensign Steve)
 *Ignore threads created by [username]. (Ensign Steve)
