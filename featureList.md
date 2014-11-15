@@ -16,7 +16,7 @@
 ## Current Hacks
 ###General
 
-* Large *
+*Large*
 
 * Articles
 * Journal
@@ -25,7 +25,7 @@
 * CMPS
 * Links
 
-* Smaller *
+*Smaller*
 
 * Automatic DB Backup
 * View deleted posts in ACP
