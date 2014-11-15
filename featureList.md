@@ -1,4 +1,4 @@
-*Requested Features*
+# H1 Requested Features
 
 Option to ignore a specific forum (ie. Sexuality). (Ensign Steve)
 Keyword search for Random Quote Generator. (Crumb)
